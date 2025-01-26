@@ -34,8 +34,7 @@ Here are some screenshots of the **StudyNotion** platform:
 ### Signup Page
 ![Signup-Page](./public/signup-page.png)
 
-### Profile Page
-![Profile-Page](./public/profile-page.png)
+
 
 ### Instructor Pages
 
